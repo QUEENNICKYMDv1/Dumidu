@@ -2,7 +2,7 @@ const { cmd, fetchJson } = require('../lib');
 
 cmd(
     {
-        pattern: "whmod", // Change the command pattern to something you prefer
+        pattern: "wamod", // Change the command pattern to something you prefer
         react: "🧩",      
         filename: __filename
     },
